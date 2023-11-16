@@ -16,7 +16,7 @@ APMSETUP.exe 설치 완료 후 웹 브라우저에 ‘127.0.0.1’입력
 ### ```cmd```
 
     $ mysql -u root -p
-    $password : apmsetup
+    $ password : apmsetup
 입력 시 로그인이 성공하는지 확인
 
 <img width="563" alt="스크린샷 2023-11-16 오후 11 54 12" src="https://github.com/5uhye0n/Dolphin/assets/149215175/2ba20140-f0db-4ea8-a7a5-3a613509eeb7">
